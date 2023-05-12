@@ -1,0 +1,40 @@
+ [
+      {
+        "image": "https://i.ibb.co/0jFKRj4/1.png",
+        "id": "1",
+        "title": "2.0L Turbocharged",
+        "price": "$45,000"
+      },
+      {
+        "image": "https://i.ibb.co/HqxZ9ty/2.png",
+        "id": "2",
+        "title": "3.0L Inline-6",
+        "price": "$42,500"
+      },
+      {
+        "image": "https://i.ibb.co/2gPG7Sm/3.png",
+        "id": "3",
+        "title": "2.0L Turbocharged",
+        "price": "$39,900"
+      },
+      {
+        "image": "https://i.ibb.co/1dTvnWv/4.png",
+        "id": "4",
+        "title": "2.5L Inline-4",
+        "price": "$27,000"
+      },
+      {
+        "image": "https://i.ibb.co/VmysvL9/5.png",
+        "id": "5",
+        "title": "1.5L Turbocharged",
+        "price": "$22,500"
+      },
+      {
+        "image": "https://i.ibb.co/b1qB4rV/6.png",
+        "id": "6",
+        "title": "5.0L V8",
+        "price": "$38,000"
+      }
+    ]
+  
+  
